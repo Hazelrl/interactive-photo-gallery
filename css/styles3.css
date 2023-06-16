@@ -20,7 +20,7 @@ input {
     border-radius: 10px;
 }
 
-.gallery-container {
+.gallery {
     display: grid;
     margin: 3em 4em;
     grid-template-columns: repeat(auto-fit, 250px);
