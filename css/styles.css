@@ -23,7 +23,7 @@ input {
 .gallery {
     display: grid;
     margin: 3em 4em;
-    grid-template-columns: repeat(auto-fit, 250px);
+    grid-template-columns: repeat(auto-fit, 200px);
     grid-gap: 25px; 
     justify-content: center; 
 }
