@@ -6,7 +6,7 @@ body {
     text-align: center;
 }
 
-form {
+.search {
     padding: 0px;
     margin: 2em 2em 0px;
     display: block;
